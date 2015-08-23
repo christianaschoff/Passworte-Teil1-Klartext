@@ -1,0 +1,21 @@
+﻿body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bw
+{
+    width: 100px;
+    float:left;
+}
+
+.bw2
+{
+    width: 200px;
+    float:left;
+}
+
+.code
+{
+    font-family: Courier New, Courier, monospace;
+}
